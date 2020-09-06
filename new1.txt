@@ -1,3 +1,4 @@
 1 text
 1 trea2 t
 90209
+poke 36879,8
