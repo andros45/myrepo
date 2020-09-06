@@ -48,6 +48,56 @@ drwxr-xr-x 1 andros 197121    0 sep  6 17:10 ../
 drwxr-xr-x 1 andros 197121    0 sep  6 13:43 hooks/
 -rw-r--r-- 1 andros 197121  641 sep  6 17:09 index
 drwxr-xr-x 1 andros 197121    0 sep  6 13:43 info/
+.:
+total 772
+drwxr-xr-x 1 andros 197121     0 sep  6 17:10 ./
+drwxr-xr-x 1 andros 197121     0 sep  6 13:42 ../
+drwxr-xr-x 1 andros 197121     0 sep  6 17:09 .git/
+-rw-r--r-- 1 andros 197121 28694 sep  6 17:10 1.calc.c
+-rw-r--r-- 1 andros 197121 28761 sep  6 17:10 1.calc.o
+-rw-r--r-- 1 andros 197121 28816 sep  6 17:10 1.calc.s
+-rw-r--r-- 1 andros 197121 28873 sep  6 17:10 1.files.h
+-rw-r--r-- 1 andros 197121 28931 sep  6 17:10 1.initial.c
+-rw-r--r-- 1 andros 197121 28989 sep  6 17:10 1.initial.o
+-rw-r--r-- 1 andros 197121 29047 sep  6 17:10 1.initial.s
+-rw-r--r-- 1 andros 197121 29102 sep  6 17:10 1.okws.h
+-rw-r--r-- 1 andros 197121 29160 sep  6 17:10 11.1.calc.c
+-rw-r--r-- 1 andros 197121 29218 sep  6 17:10 11.1.calc.o
+-rw-r--r-- 1 andros 197121 29276 sep  6 17:10 11.1.calc.s
+-rw-r--r-- 1 andros 197121 29335 sep  6 17:10 11.1.files.h
+-rw-r--r-- 1 andros 197121 29396 sep  6 17:10 11.1.initial.c
+-rw-r--r-- 1 andros 197121 29457 sep  6 17:10 11.1.initial.o
+-rw-r--r-- 1 andros 197121 29518 sep  6 17:10 11.1.initial.s
+-rw-r--r-- 1 andros 197121 29576 sep  6 17:10 11.1.okws.h
+-rw-r--r-- 1 andros 197121 29632 sep  6 17:10 11.calc.c
+-rw-r--r-- 1 andros 197121 29688 sep  6 17:10 11.calc.o
+-rw-r--r-- 1 andros 197121 29744 sep  6 17:10 11.calc.s
+-rw-r--r-- 1 andros 197121 29801 sep  6 17:10 11.files.h
+-rw-r--r-- 1 andros 197121 29860 sep  6 17:10 11.initial.c
+-rw-r--r-- 1 andros 197121 29919 sep  6 17:10 11.initial.o
+-rw-r--r-- 1 andros 197121 29978 sep  6 17:10 11.initial.s
+-rw-r--r-- 1 andros 197121     0 sep  6 17:10 11.okws.h
+-rw-r--r-- 1 andros 197121   143 sep  6 14:00 calc.c
+-rw-r--r-- 1 andros 197121  1826 sep  6 13:57 calc.o
+-rw-r--r-- 1 andros 197121   747 sep  6 14:00 calc.s
+-rw-r--r-- 1 andros 197121  2733 sep  6 16:22 files.h
+-rw-r--r-- 1 andros 197121    82 sep  6 13:55 initial.c
+-rw-r--r-- 1 andros 197121   814 sep  6 13:55 initial.o
+-rw-r--r-- 1 andros 197121   578 sep  6 13:55 initial.s
+-rw-r--r-- 1 andros 197121    27 sep  6 17:09 okws.h
+
+./.git:
+total 40
+drwxr-xr-x 1 andros 197121    0 sep  6 17:09 ./
+drwxr-xr-x 1 andros 197121    0 sep  6 17:10 ../
+-rw-r--r-- 1 andros 197121    5 sep  6 17:09 COMMIT_EDITMSG
+-rw-r--r-- 1 andros 197121 1843 sep  6 17:00 config
+-rw-r--r-- 1 andros 197121   73 sep  6 13:43 description
+-rw-r--r-- 1 andros 197121 2583 sep  6 17:09 FETCH_HEAD
+-rw-r--r-- 1 andros 197121   18 sep  6 17:08 HEAD
+drwxr-xr-x 1 andros 197121    0 sep  6 13:43 hooks/
+-rw-r--r-- 1 andros 197121  641 sep  6 17:09 index
+drwxr-xr-x 1 andros 197121    0 sep  6 13:43 info/
 drwxr-xr-x 1 andros 197121    0 sep  6 13:46 logs/
 drwxr-xr-x 1 andros 197121    0 sep  6 17:09 objects/
 -rw-r--r-- 1 andros 197121   41 sep  6 17:09 ORIG_HEAD
