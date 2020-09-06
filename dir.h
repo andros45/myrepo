@@ -1,0 +1,19 @@
+total 50
+drwxr-xr-x 1 andros 197121    0 sep  6 16:18 ./
+drwxr-xr-x 1 andros 197121    0 sep  6 13:42 ../
+drwxr-xr-x 1 andros 197121    0 sep  6 16:18 .git/
+-rw-r--r-- 1 andros 197121  143 sep  6 14:00 calc.c
+-rw-r--r-- 1 andros 197121 1826 sep  6 13:57 calc.o
+-rw-r--r-- 1 andros 197121  747 sep  6 14:00 calc.s
+-rw-r--r-- 1 andros 197121    0 sep  6 16:18 dir.h
+-rw-r--r-- 1 andros 197121 2658 sep  6 13:53 files.h
+-rw-r--r-- 1 andros 197121   82 sep  6 13:55 initial.c
+-rw-r--r-- 1 andros 197121  814 sep  6 13:55 initial.o
+-rw-r--r-- 1 andros 197121  578 sep  6 13:55 initial.s
+-rw-r--r-- 1 andros 197121    7 sep  6 13:53 okws.h
+-rw-r--r-- 1 andros 197121  635 sep  6 16:17 slls.h
+-rw-r--r-- 1 andros 197121  688 sep  6 16:17 slls.ha
+-rw-r--r-- 1 andros 197121  744 sep  6 16:17 slls.hasdf
+-rw-r--r-- 1 andros 197121  803 sep  6 16:18 slls.hasdf235
+-rw-r--r-- 1 andros 197121  870 sep  6 16:18 slls.hasdf235+3489eio
+-rw-r--r-- 1 andros 197121  940 sep  6 16:18 slls.hasdf235+3489eio342
