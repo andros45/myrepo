@@ -1,7 +1,7 @@
 .:
 total 8
 drwxr-xr-x 1 andros 197121 0 sep  6 13:44 ./
-drwxr-xr-x 1 andros 197121 0 sep  6 13:42 ../
+rrwxr-xr-x 1 andros 197121 0 sep  6 13:42 ../
 drwxr-xr-x 1 andros 197121 0 sep  6 13:43 .git/
 -rw-r--r-- 1 andros 197121 0 sep  6 13:44 files.h
 
