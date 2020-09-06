@@ -6,6 +6,7 @@ drwxr-xr-x 1 andros 197121     0 sep  6 16:23 .git/
 -rw-r--r-- 1 andros 197121 19540 sep  6 16:24 12.calc.c
 -rw-r--r-- 1 andros 197121 19609 sep  6 16:24 12.calc.o
 -rw-r--r-- 1 andros 197121 19665 sep  6 16:24 12.calc.s
+92387
 -rw-r--r-- 1 andros 197121     0 sep  6 16:24 12.files.h
 -rw-r--r-- 1 andros 197121   143 sep  6 14:00 calc.c
 -rw-r--r-- 1 andros 197121  1826 sep  6 13:57 calc.o
